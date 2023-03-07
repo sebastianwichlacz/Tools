@@ -1,0 +1,17 @@
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\bin\Debug\Tools.exe.config
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\bin\Debug\Tools.exe
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\bin\Debug\Tools.pdb
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\obj\Debug\Tools.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\obj\Debug\MainWindow.g.cs
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\obj\Debug\App.g.cs
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\obj\Debug\Tools_MarkupCompile.cache
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\obj\Debug\Tools_MarkupCompile.lref
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\obj\Debug\MainWindow.baml
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\obj\Debug\Tools.g.resources
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\obj\Debug\Tools.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\obj\Debug\Tools.csproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\obj\Debug\Tools.exe
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\obj\Debug\Tools.pdb
+C:\Users\Sebastian\Desktop\aa\Tools\Tools\obj\Debug\GeneratedInternalTypeHelper.g.cs
